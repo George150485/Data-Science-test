@@ -17,3 +17,4 @@ def number_of_users(user):
 toatl_freinds = sum(number_of_users(user) for user in users)
 
 print(toatl_freinds)
+#Average connection per person = total number of connections / No. of Users
